@@ -1,0 +1,14 @@
+#id{
+    color:red;
+    background-color: blue;
+}
+
+/* id and class ka name hum kch bhi rkh skte hai
+par id srf ek tag ko de skte h ye unique honi chahiye
+class hum different tag ko de skte hai  */
+
+.class
+{
+    color:green;
+    background-color: rgb(255, 0, 183);
+} 
